@@ -1,5 +1,5 @@
 # Project-I
-III-semester project on C.\
+III-semester project on C.
 ___
 Project Members:
 1. Aarju Chaulagain (740302)
